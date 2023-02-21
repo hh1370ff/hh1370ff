@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm web a developer and Modeler H.F</h1>
+<h1 align="center">Hi 👋, I'm a web developer and Modeler H.F</h1>
 <h3 align="center">A passionate web developer and Modeler</h3>
 
 
